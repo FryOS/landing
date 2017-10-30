@@ -1,0 +1,27 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "this is tutorial landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FryOS/landing.git"
+  },
+  "keywords": [
+    "fryos"
+  ],
+  "author": "fryos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FryOS/landing/issues"
+  },
+  "homepage": "https://github.com/FryOS/landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0"
+  }
+}
